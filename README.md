@@ -12,8 +12,8 @@ My Gomoku implementation provides a simple scoring-based mechanism that plays ag
 
 I have my own LifeGUI implementation that has some more features:
 
-Support of generating cells by random
-Mouse hover hightlight on unset cells
+- Support of generating cells by random
+- Mouse hover hightlight on unset cells
 - Auto play
 - Auto adjust boundary and scale
 - Support of undo (cancel a bad move) in Gomoku game
